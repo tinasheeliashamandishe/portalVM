@@ -1,4 +1,4 @@
-<h1>Create a Windows Virtual machine server in the Azure portal an connect to it</h1>
+<h1>Create a Windows Virtual machine server in the Azure portal and connect to it via RDP</h1>
 
 <h2>Description</h2>
 This lab will deploy a virtual machine server in the Azure Cloud, using the Azure portal and will connect to it via RDP.
